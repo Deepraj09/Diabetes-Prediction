@@ -84,6 +84,8 @@ The project requires the following Python libraries, which can be installed usin
 
 The script will output the training and test accuracy for different numbers of neighbors and display a plot comparing these accuracies. It will also show the accuracy of the KNN classifier on the training and test sets with the optimal number of neighbors.
 
+![Knn](https://github.com/user-attachments/assets/b1a04f6c-4da7-4e7e-ba34-78076eb29996)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
